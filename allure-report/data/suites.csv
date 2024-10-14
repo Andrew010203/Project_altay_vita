@@ -1,0 +1,2 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Mon Oct 14 10:43:47 AZT 2024","Mon Oct 14 10:44:10 AZT 2024","22535","tests","test_reg","TestCriticalPath","","","Check search and buy product",""
